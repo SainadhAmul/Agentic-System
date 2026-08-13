@@ -1,4 +1,4 @@
-# EAGV3 Session 7 — Complete Codebase Guide for Agents
+# Complete Codebase Guide for Agent system
 
 > **Purpose**: This document gives an AI agent everything it needs to understand, navigate, modify, and debug this codebase — fast. Read top-to-bottom for a full mental model; use the table of contents to jump to specifics.
 
