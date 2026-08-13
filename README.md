@@ -1,4 +1,4 @@
-# EAG V3 Session 7: Agent System with LLM Gateway
+# Agent System with LLM Gateway
 
 A highly capable cognitive AI agent that breaks down tasks, manages persistent vector memory, and routes all LLM calls through a custom load-balancing LLM Gateway.
 
